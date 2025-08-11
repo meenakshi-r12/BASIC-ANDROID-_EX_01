@@ -21,11 +21,11 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-/*
+```
 Program to implement a Hello world Activity using all lifecycles methods using Android Studio .
 Developed by: MEENAKSHI.R
 RegisterNumber: 212224220062
-*/
+```
 ## MainActivity.java:
 ```
 package com.example.andriodlifecycle;
